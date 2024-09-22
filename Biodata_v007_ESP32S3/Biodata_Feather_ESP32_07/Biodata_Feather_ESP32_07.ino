@@ -30,8 +30,8 @@
 ***/
 // Wifi Credentials ~~~~~~~~~~~!!!!
 
-char ssid[] = "OxfordEast"; //  your network SSID (name)
-char pass[] = "oxfordeast";    // your network password (use for WPA, or use as key for WEP)
+char ssid[] = "b1t"; //  your network SSID (name)
+char pass[] = "1nt3rn3t";    // your network password (use for WPA, or use as key for WEP)
 // ~~~~~~~~~~~~~!!!!
 //  Set the MIDI Channel of this node
   byte channel = 1; // 
